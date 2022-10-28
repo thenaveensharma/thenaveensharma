@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen Kumar.
-- 👀 I’m interested in MERN Stack Developement.
-- 🌱 I’m currently learning MERN.
+- 👀 I’m a MERN Stack Developer.
+- 🌱 I’m currently learning advanced MERN concepts.
 - 💞️ I’m looking to collaborate on Web Based Projects.
 - 📫 How to reach me  e-mail 📧 naveenchaurasiya1501@gmail.com
 

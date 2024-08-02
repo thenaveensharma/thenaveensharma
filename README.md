@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Chat-Buddy**
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **Rust and Web3**
 
-- 💬 Ask me about **React, Node, Express, MongoDB, SQL**
+- 💬 Ask me about **React, Node, TypeScript, Express, MongoDB, SQL**
 
 - 📫 How to reach me **naveenkumar892014@gmail.com`**
 

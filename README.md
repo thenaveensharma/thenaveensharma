@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_naveen_s" target="blank"><img src="https://img.shields.io/twitter/follow/the_naveen_s?logo=twitter&style=for-the-badge" alt="the_naveen_s" /></a> </p>
 
-- 🔭 I’m currently working on **Chat-Buddy**
+- 🔭 I’m currently working on **Order matching engine**
 
 - 🌱 I’m currently learning **Rust and Web3**
 

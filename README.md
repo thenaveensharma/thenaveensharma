@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">A full stack MERN developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenaveensharma&label=Profile%20views&color=0e75b6&style=flat" alt="thenaveensharma" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust and Web3**
 
-- 💬 Ask me about **React, Node, TypeScript, Express, MongoDB, SQL**
+- 💬 Ask me about **React, Node, TypeScript, Express, MongoDB, SQL, Rust, Web3**
 
 - 📫 How to reach me **naveenkumar892014@gmail.com`**
 

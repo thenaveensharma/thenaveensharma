@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust and Web3**
 
-- 💬 Ask me about **React, Node, TypeScript, Express, MongoDB, SQL, Rust, Web3**
+- 💬 Ask me about **React, Node, TypeScript, Express, MongoDB, SQL, Golang, Rust, Web3**
 
 - 📫 How to reach me **naveenkumar892014@gmail.com`**
 
